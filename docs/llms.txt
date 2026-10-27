@@ -1,0 +1,18 @@
+# BatteryIncluded Integrations
+
+> BatteryIncluded is cookieless AI search, merchandising and product recommendations for e-commerce. This site lists all
+> ways to integrate it: Shopware 6 plugin, Sylius Plugin, Symfony Bundle, PHP SDK and the REST API.
+
+## Integrations
+
+- [Shopware 6 plugin](https://raw.githubusercontent.com/eiling-io/batteryincluded/main/docs/integrations/shopware.md): native plugin for Shopware 6.5+, installed from a private Composer registry
+- [Sylius Plugin](https://sylius.batteryincluded.eiling.io/llms.txt): Sylius 2 plugin with search page, suggestions, category pages and recommendations
+- [Symfony Bundle](https://bundle.batteryincluded.eiling.io/llms.txt): Symfony integration with export, sync, Doctrine, Messenger and profiler
+- [PHP SDK](https://sdk.batteryincluded.eiling.io/llms.txt): typed API client, DTOs, sync, search, suggestions and recommendations
+- [API reference](https://www.postman.com/batteryincluded/core/overview): all endpoints of the BatteryIncluded API
+
+## Docs
+
+- [What is BatteryIncluded?](https://raw.githubusercontent.com/eiling-io/batteryincluded/main/docs/batteryincluded.md): modules, benefits, how an integration works
+- [Integrations](https://raw.githubusercontent.com/eiling-io/batteryincluded/main/docs/integrations/index.md): which integration fits, how the PHP packages fit together
+- [Get help](https://raw.githubusercontent.com/eiling-io/batteryincluded/main/docs/support.md): integration support by eiling.io
