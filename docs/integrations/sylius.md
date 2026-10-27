@@ -1,7 +1,7 @@
 ---
 title: Sylius
 parent: Integrations
-nav_order: 2
+nav_order: 3
 ---
 
 # Sylius Plugin

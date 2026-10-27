@@ -1,7 +1,7 @@
 ---
 title: Shopware 6
 parent: Integrations
-nav_order: 1
+nav_order: 4
 ---
 
 # Shopware 6 plugin

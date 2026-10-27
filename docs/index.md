@@ -20,10 +20,10 @@ plain PHP SDK.
 
 | Your shop | Integration | Effort |
 |---|---|---|
-| **Shopware 6** | [Shopware 6 plugin](integrations/shopware) by BatteryIncluded | Install and configure |
-| **Sylius 2** | [Sylius Plugin](integrations/sylius) – search page, suggestions, category pages, recommendations | Install and configure |
-| **Symfony** | [Symfony Bundle](integrations/symfony) – export, sync, search, Doctrine, Messenger, profiler | Build your templates |
 | **Any PHP application** | [PHP SDK](integrations/php-sdk) – typed client for sync, search, suggestions, recommendations | Build your integration |
+| **Symfony** | [Symfony Bundle](integrations/symfony) – export, sync, search, Doctrine, Messenger, profiler | Build your templates |
+| **Sylius 2** | [Sylius Plugin](integrations/sylius) – search page, suggestions, category pages, recommendations | Install and configure |
+| **Shopware 6** | [Shopware 6 plugin](integrations/shopware) by BatteryIncluded | Install and configure |
 | **Everything else** | [API & data feed](integrations/api) – REST API, any language, any platform | Build your integration |
 
 The Sylius Plugin, the Symfony Bundle and the PHP SDK are open source and build on each other, see

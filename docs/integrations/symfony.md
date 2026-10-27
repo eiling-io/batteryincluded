@@ -1,7 +1,7 @@
 ---
 title: Symfony
 parent: Integrations
-nav_order: 3
+nav_order: 2
 ---
 
 # Symfony Bundle
